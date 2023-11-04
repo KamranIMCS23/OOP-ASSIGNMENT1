@@ -1,6 +1,5 @@
 
-
-						# Basic Number Calculator
+# Basic Number Calculator
 
 ## Introduction
 
